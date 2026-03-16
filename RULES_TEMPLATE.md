@@ -88,6 +88,7 @@
 ### 3.1 新規会話の開始時
 
 毎回の会話開始時に、以下をリポジトリから直接読み込む:
+全ファイルを raw.githubusercontent.com 経由で読みに行くこと。
 1. docs/RULES.md - 開発ルール
 2. docs/DEVELOPMENT_PLAN.md - 開発計画・現在の状態
 3. docs/DECISIONS.md - 過去の設計判断（存在する場合）
